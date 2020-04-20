@@ -3,6 +3,7 @@
 Created on Sun Apr 19 22:06:05 2020
 Laboraufgabe Suche-Programm für Bibiliotheksdatenbank
 @author: Lennard Schröder und Tjark  Ziehm
+patch 1
 """
 
 
